@@ -1,0 +1,345 @@
+"D:\ME Project\covid19\venv\Scripts\python.exe" "D:/ME Project/covid19/largedatasetKmer.py"
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 47
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 71
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 137
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 152
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 160
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 162
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 162
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 162
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 162
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 162
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 162
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 162
+Total Dict Size: 162
+filter Dict Size: 24
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 156
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 265
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 611
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 752
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 840
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 876
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 887
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 894
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 895
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 906
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 906
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 907
+Total Dict Size: 907
+filter Dict Size: 83
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 472
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 730
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 2278
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 2752
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 3009
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 3128
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 3187
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 3215
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 3220
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 3259
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 3261
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 3275
+Total Dict Size: 3275
+filter Dict Size: 177
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 1396
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 1806
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 7443
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 9350
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 10395
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 10935
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 11251
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 11370
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 11413
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 11533
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 11550
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 11601
+Total Dict Size: 11601
+filter Dict Size: 203
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 4619
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 5156
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 19425
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 26056
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 30441
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 33228
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 34863
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 35732
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 36246
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 36913
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 37174
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 37434
+Total Dict Size: 37434
+filter Dict Size: 220
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 15974
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 17125
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 43197
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 58237
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 69920
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 78243
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 83468
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 86945
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 89629
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 92021
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 93575
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 94710
+Total Dict Size: 94710
+filter Dict Size: 226
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 45451
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 51281
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 93927
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 119451
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 140925
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 157105
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 167706
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 176074
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 183259
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 188799
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 193417
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 196575
+Total Dict Size: 196575
+filter Dict Size: 232
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 91548
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 110283
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 186438
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 226400
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 260744
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 287522
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 305815
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 322814
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 337571
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 348233
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 358151
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 365004
+Total Dict Size: 365004
+filter Dict Size: 237
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+Dict Size: 134361
+largedataset/dataset\Beata-MERS_0-10000.csv
+Dict Size: 167788
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+Dict Size: 293030
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+Dict Size: 352788
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+Dict Size: 403890
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+Dict Size: 444734
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+Dict Size: 473636
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+Dict Size: 504125
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+Dict Size: 529850
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+Dict Size: 548245
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+Dict Size: 566319
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+Dict Size: 578994
+Total Dict Size: 578994
+filter Dict Size: 242
+largedataset/dataset\Alphacoronavirus_0-10000.csv
+largedataset/dataset\Beata-MERS_0-10000.csv
+largedataset/dataset\Beata-SARS 2_0-10000.csv
+largedataset/dataset\Beata-SARS 2_10000-20000.csv
+largedataset/dataset\Beata-SARS 2_20000-30000.csv
+largedataset/dataset\Beata-SARS 2_30000-40000.csv
+largedataset/dataset\Beata-SARS 2_40000-50000.csv
+largedataset/dataset\Beata-SARS 2_50000-60000.csv
+largedataset/dataset\Beata-SARS 2_60000-70000.csv
+largedataset/dataset\Beata-SARS 2_70000-80000.csv
+largedataset/dataset\Beata-SARS 2_80000-90000.csv
+largedataset/dataset\Beata-SARS 2_90000-100000.csv
+
+Process finished with exit code 0
